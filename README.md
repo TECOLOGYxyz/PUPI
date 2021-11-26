@@ -35,7 +35,11 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/TECOLOGYxyz/PUPI.git
    ```
-2. Install packages
+2. Go to directory
+   ```sh
+   cd PUPI
+   ```
+3. Install packages
    ```sh
    pip install -r requirements.txt
    ```
