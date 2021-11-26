@@ -73,9 +73,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@@HjalteMann](https://twitter.com/@HjalteMann) - mann@bios.au.dk
+[@HjalteMann](https://twitter.com/@HjalteMann) - mann@bios.au.dk
 
-Project Link: [https://github.com/TECOLOGYxyz/TrackingFlowers](https://github.com/TECOLOGYxyz/TrackingFlowers)
+Project Link: [https://github.com/TECOLOGYxyz/TrackingFlowers](https://github.com/TECOLOGYxyz/PUPI)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
