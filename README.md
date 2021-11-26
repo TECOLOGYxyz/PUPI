@@ -8,7 +8,6 @@
   <h3 align="center">Python Utilities for Processing Images</h3>
 
   <p align="center">
-    Get flowering phenology for individual flowers using an automatic tracking algorithm..
     <br />
     <a href="https://github.com/TECOLOGYxyz/PUPI"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,6 +45,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 ** ShortcutSorting **
+
 Fast manual sorting of images with keyboard shortcuts.
 
 
