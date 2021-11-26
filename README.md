@@ -43,8 +43,14 @@ To get a local copy up and running follow these simple steps.
    ```sh
    pip install -r requirements.txt
    ```
-
-
+4. Go to directory
+   ```sh
+   cd code
+   ```
+5. Go to directory
+   ```sh
+   python ShortcutSorting.py
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
