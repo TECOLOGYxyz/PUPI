@@ -44,9 +44,9 @@ To get a local copy up and running follow these simple steps.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-** ShortcutSorting **
+# ShortcutSorting
 
-Fast manual sorting of images with keyboard shortcuts.
+Fast manual sorting of images with keyboard shortcuts. Set the path to the directory containing images, map keys with folders and run.
 
 
 
