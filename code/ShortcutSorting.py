@@ -17,7 +17,7 @@ import ast
 ####
 
 
-directory = r'O:\Tech_TTH-BITCue\Workspace_Hjalte\MaskRCNN\2020_01_22_VisitorDetectionOnFlowers_DetectionPhenologyTestSeries\UnknownInsects\2018_NARS-02_1' # Path to folder with images for sorting
+directory = r'../images/ShortcutSorting' # Path to folder with images for sorting
 
 
 folderMap = {'1': "Empty", '2': "Maybe", '3': "Insect"}
