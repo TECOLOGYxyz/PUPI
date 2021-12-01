@@ -5,7 +5,10 @@ Hjalte M. R. Mann
 Aarhus University
 TECOLOGY.xyz
 
+Production of collages of crops of flower and insect detections to be used on Zooniverse.
 
+This script takes raw images and detection info (bounding box coordinates) for flowers and insects as input. 
+It crops detections and produces collages with four crops in each. It also produces a manifest to be used on the Zooniverse platform.
 
 """
 
