@@ -55,10 +55,11 @@ fl_detections = pd.read_csv(flower_detections, header = None) # Read the file co
 fl_detections.columns=['filename', 'x_min', 'y_min', 'x_max', 'y_max'] # Name the columns
 fl_detections['known_insect'] = str(0)
 
-fl_detections['x_min'] = fl_detections['x_min']*8 # We might as well upscale the detection coordinates now we have the file open
-fl_detections['y_min'] = fl_detections['y_min']*8
-fl_detections['x_max'] = fl_detections['x_max']*8
-fl_detections['y_max'] = fl_detections['y_max']*8
+
+fl_detections['x_min'] = fl_detections['x_min']*upscale_factor # We might as well upscale the detection coordinates now we have the file open
+fl_detections['y_min'] = fl_detections['y_min']*upscale_factor
+fl_detections['x_max'] = fl_detections['x_max']*upscale_factor
+fl_detections['y_max'] = fl_detections['y_max']*upscale_factor
 
 fl_detections['x_min'] = fl_detections['x_min'].astype(int)
 fl_detections['y_min'] = fl_detections['y_min'].astype(int)
